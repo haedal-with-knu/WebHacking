@@ -46,6 +46,8 @@
 **사이트**   
 [Webhacker](https://webhacking.kr/) 웹해킹 문제들이 있는 사이트   
 [OWASP](https://owasp.org/www-community/attacks/) 전세계 정보보안 표준    
+[PTES](http://www.pentest-standard.org/index.php/Main_Page) penetration testing execution standard   
+
 
 **도서**   
 Metasploit - The Penetration Tester's Guide(2011) by David Kennedy, Jim O'Gorman, ...   
