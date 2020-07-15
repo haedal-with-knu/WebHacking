@@ -23,10 +23,10 @@
 ## 커리큘럼   
 
 [1. 모의해킹이란?/실습환경 세팅](https://www.notion.so/1-183d39198d3b46b2814db448a1400291)   
-2일차   
-3일차   
-4일차   
-5일차   
+[2. 취약점 분석](https://www.notion.so/2-9dc728490aa74f24938d7c4a4d9285df)   
+[3. Metasploit을 이용한 공격](https://www.notion.so/3-Metasploit-5a3884874211413d933c91c3d44492b2)   
+[4. 후속 공격(1)](https://www.notion.so/4-1-b2c7a348eaf54489990ae7eca8680c6d)   
+[5. 후속 공격(2)/모의해킹 실습](https://www.notion.so/5-2-1910229496574c228dfdf6c297c886ae)   
 
 
 
