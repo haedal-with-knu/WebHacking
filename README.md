@@ -22,7 +22,7 @@
 
 ## 커리큘럼   
 
-[1. 모의해킹이란?/실습환경 ](https://github.com/haedal-with-knu/WebHacking/blob/master/1)   
+[1. 모의해킹이란?/실습환경 세팅](https://www.notion.so/1-183d39198d3b46b2814db448a1400291)   
 2일차   
 3일차   
 4일차   
