@@ -26,7 +26,7 @@
 
 [2. 취약점 분석](https://www.notion.so/2-9dc728490aa74f24938d7c4a4d9285df)   
 
-[3. Metasploit을 이용한 공격](https://www.notion.so/3-Metasploit-5a3884874211413d933c91c3d44492b2)   
+[3. Metasploit을 이용한 공격 수행](https://www.notion.so/3-Metasploit-5a3884874211413d933c91c3d44492b2)   
 
 [4. 후속 공격(1)](https://www.notion.so/4-1-b2c7a348eaf54489990ae7eca8680c6d)   
 
