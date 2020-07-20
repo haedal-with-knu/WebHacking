@@ -30,7 +30,7 @@
 
 4. [후속 공격(1)](https://www.notion.so/4-1-b2c7a348eaf54489990ae7eca8680c6d)   
 
-5. [후속 공격(2)/모의해킹 실습](https://www.notion.so/5-2-1910229496574c228dfdf6c297c886ae)   
+5. [후속 공격(2)](https://www.notion.so/5-2-1910229496574c228dfdf6c297c886ae)   
 
 
 
