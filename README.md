@@ -50,6 +50,4 @@ Metasploit Penetration Testing Cookbook 3rd Edition(2018) by Daniel Teixeira, Ab
 
 
 
-※칼리리눅스 최신 버전은 구버전과 한글설정, root계정 사용법 등이 다르니 최신 버전으로 적용할 것.  
-  
 
