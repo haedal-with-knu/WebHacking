@@ -5,23 +5,23 @@
 
 ## 커리큘럼   
 
-1. [모의해킹이란?/실습환경 세팅](https://www.notion.so/1-183d39198d3b46b2814db448a1400291)   
+1. [모의해킹이란?/실습환경 세팅](https://www.notion.so/1-bf3a0581da45425ab4bb601e7d61be51)   
     오전 : 모의해킹에 대한 개요   
     오후 : 실습환경 세팅   
 
-2. [취약점 분석](https://www.notion.so/2-9dc728490aa74f24938d7c4a4d9285df)   
+2. [취약점 분석](https://www.notion.so/2-d1e05d0891d640bf9a4a712cd9ff78b2)   
     오전 : 취약점 분석에 대한 설명, Nessus 세팅   
     오후 : Nessus를 이용한 취약점 분석 실습   
 
-3. [Metasploit을 이용한 공격 수행](https://www.notion.so/3-Metasploit-5a3884874211413d933c91c3d44492b2)   
+3. [Metasploit을 이용한 공격 수행](https://www.notion.so/3-Metasploit-3a53589c17ae4b67b7fee627a54155e9)   
     오전 : Metasploit을 이용한 Exploit에 대한 설명, Manual Exploit 실습   
     오후 : Metasploit을 이용한 여러가지 Exploit 실습   
 
-4. [후속 공격(1)](https://www.notion.so/4-1-b2c7a348eaf54489990ae7eca8680c6d)   
+4. [후속 공격(1)](https://www.notion.so/4-1-31f7549d18314399887fc681c645ce2a)   
     오전 : post-Exploitation에 대한 개요, Pass the Hash 소개 및 실습   
     오후 : Windows XP와 8.1 환경을 대상으로 한 Post-Exploitation 실습   
 
-5. [후속 공격(2)](https://www.notion.so/5-2-1910229496574c228dfdf6c297c886ae)   
+5. [후속 공격(2)](https://www.notion.so/5-2-fddb5f8ee5e543c69e9e1def48f2e890)   
     오전 : Post-Exploitation에 대한 전반적인 리뷰, Meterpreter의 종류에 따른 실습   
     오후 : Meterpreter Module에 대한 이해 및 실습, PTES 과정 수행   
 
